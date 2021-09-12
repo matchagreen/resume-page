@@ -4,7 +4,7 @@ function Footer() {
     <footer>
       <div className="footer">
         <div className="footerContent">
-          <p>This website is powered by ReactJS, HTML & CSS.</p>
+          <p>This resume website is powered by ReactJS, HTML & CSS.</p>
         </div>
       </div>
     </footer>
