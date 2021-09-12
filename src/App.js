@@ -8,7 +8,7 @@ import Footer from "./Footer";
 
 function App() {
   return (
-    <Router basename="/resume-page">
+    <Router>
       <div className="App">
         <Navbar />
         <div className="content">
